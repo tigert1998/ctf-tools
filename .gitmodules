@@ -6,3 +6,6 @@
 	path = GitHack
 	url = https://github.com/tigert1998/GitHack.git
 	ignore = dirty
+[submodule "sqlmap"]
+	path = sqlmap
+	url = https://github.com/sqlmapproject/sqlmap.git
